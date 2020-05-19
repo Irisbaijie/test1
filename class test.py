@@ -3,7 +3,7 @@ class A(object):
     def __init__(self):
         self.x = 'Hello'
 
-    #print out
+    #print out test
     def out(self, foo):
         print self.x + ' ' + foo
 
